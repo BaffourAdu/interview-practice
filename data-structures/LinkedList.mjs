@@ -107,7 +107,7 @@ export default class LinkedList {
       current = current.next;
     }
     return current;
-    }
+  }
 
   // Deletes an item from a given index
   delete(index) {
