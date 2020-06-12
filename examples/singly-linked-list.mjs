@@ -30,7 +30,6 @@ function getMiddleElement(list) {
   return middleNode.value
 }
 
-
 const list1 = new LinkedList()
 list1.push(1)
 list1.push(2)
