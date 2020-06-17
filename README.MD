@@ -9,7 +9,7 @@
   yarn install
 ```
 
-- To run an example file, use the command below;
+3. To run an example file, use the command below;
 
 ```bash
   node -r @std/esm examples/<filename>
